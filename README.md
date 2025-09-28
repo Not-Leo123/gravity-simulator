@@ -2,3 +2,5 @@ Here is a simple(ish) gravity simulator I made. It includes supernovas, binary s
 
 
 enjoy (i will probibly add to it one day)
+
+feel free to donate [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B01LZ59Y)
